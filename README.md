@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-cruz-aa4454304/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JefersondaCruz)
 [![DIO perfil](https://img.shields.io/badge/DIO_PERFIL-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://www.dio.me/users/jefersondacruz40)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jefersondacruz40@gmail.com)
 
 
 # Sobre mim
@@ -19,4 +20,4 @@ Atualmente tenho 20 anos, estou Cursando analise e desenvolvimento de sistemas (
 
 # GitHub Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JefersondaCruz&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-[![GitHub Streak](https://streak-stats.demolab.com?user=JefersondaCruz&theme=neon-dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JefersondaCruz&theme=neon-dark&exclude_days=Sun%2CSat&card_width=467)](https://git.io/streak-stats)
