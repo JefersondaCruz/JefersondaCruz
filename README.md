@@ -8,7 +8,7 @@
 
 
 # Sobre mim
-Atualmente tenho 20 anos, estou Cursando analise e desenvolvimento de sistemas (UniGuairacá-PR), Inglês-B1 (Intermediário), em busca de uma oportunidade de estágio, para me aperfeiçoar e evoluir na área de TI. 
+Atualmente tenho 21 anos, estou Cursando analise e desenvolvimento de sistemas (UniGuairacá-PR), Inglês-B1 (Intermediário), desenvolvedor back-end, com foco em python e desenvolvimento web. 
 # habilidades
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
