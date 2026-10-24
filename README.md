@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Jeferson%20da%20Cruz&reversal=true&animation=blink&textBg=false&fontColor=">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,50:3d59a1,100:bf91f3&text=Jeferson%20da%20Cruz&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&reversal=true">
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+%F0%9F%9A%80;PHP+%7C+Laravel+%7C+Hyperf+%7C+Python+%7C+Node;RabbitMQ+%7C+Redis+%7C+PostgreSQL;Kubernetes+%2B+Google+Cloud+%E2%98%81%EF%B8%8F" />
@@ -55,13 +55,12 @@ Trabalho principalmente com **PHP (Laravel e Hyperf)**, **Python** e **Node.js**
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JefersondaCruz&theme=tokyonight" width="100%" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JefersondaCruz&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&rank_icon=github&border_radius=12&custom_title=Estat%C3%ADsticas&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersondaCruz&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&border_radius=12&locale=pt-br" />
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JefersondaCruz&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JefersondaCruz&theme=tokyonight" />
-  <img height="180" src="https://streak-stats.demolab.com?user=JefersondaCruz&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat" />
+  <img src="https://streak-stats.demolab.com?user=JefersondaCruz&theme=tokyonight&hide_border=true&border_radius=12&card_width=720&locale=pt_BR" />
 </div>
 
 ### 🏆 Troféus
@@ -72,7 +71,10 @@ Trabalho principalmente com **PHP (Laravel e Hyperf)**, **Python** e **Node.js**
 
 ### 🐍 Contribuições
 
-<img width="100%" src="https://raw.githubusercontent.com/JefersondaCruz/JefersondaCruz/output/github-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JefersondaCruz/JefersondaCruz/output/github-snake-dark.svg" />
+  <img width="100%" alt="cobrinha das contribuições" src="https://raw.githubusercontent.com/JefersondaCruz/JefersondaCruz/output/github-snake.svg" />
+</picture>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JefersondaCruz&color=70a5fd&style=for-the-badge&label=VISITAS" />
