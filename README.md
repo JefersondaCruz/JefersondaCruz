@@ -69,13 +69,10 @@ Trabalho principalmente com **PHP (Laravel e Hyperf)**, **Python** e **Node.js**
   <img src="https://github-trophies.vercel.app/?username=JefersondaCruz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
 </div>
 
-### 🐍 Contribuições
+### 🧊 Contribuições em 3D
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JefersondaCruz/JefersondaCruz/output/github-snake-dark.svg" />
-  <img width="100%" alt="cobrinha das contribuições" src="https://raw.githubusercontent.com/JefersondaCruz/JefersondaCruz/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img width="100%" alt="contribuições em 3D" src="./profile-3d-contrib/profile-season.svg" />
 </picture>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JefersondaCruz&color=70a5fd&style=for-the-badge&label=VISITAS" />
-</div>
