@@ -64,14 +64,10 @@ Trabalho principalmente com **PHP (Laravel e Hyperf)**, **Python** e **Node.js**
   <img height="180" src="https://streak-stats.demolab.com?user=JefersondaCruz&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat" />
 </div>
 
-### 📈 Atividade
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JefersondaCruz&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-
 ### 🏆 Troféus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JefersondaCruz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+  <img src="https://github-trophies.vercel.app/?username=JefersondaCruz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
 </div>
 
 ### 🐍 Contribuições
